@@ -18,7 +18,9 @@ go get github.com/fatih/color
 
 ### Importing library
 
-`import "github.com/fatih/color"`
+```go
+import "github.com/fatih/color"
+```
 
 ### Standard colors
 
