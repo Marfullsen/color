@@ -16,6 +16,10 @@ go get github.com/fatih/color
 
 ## Examples
 
+### Importing library
+
+`import "github.com/fatih/color"`
+
 ### Standard colors
 
 ```go
